@@ -16,8 +16,12 @@ PUT /apm-7.14.0-transaction-000001
       "is_write_index": true
     }
   },
-  "mappings": { },
-  "settings": {}
+  "mappings": {
+   .....
+   },
+  "settings": {
+   .....
+   }
 }
 ```
 
