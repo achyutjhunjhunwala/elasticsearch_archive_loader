@@ -1,0 +1,15 @@
+{
+  "name": "elasticsearch_archive_loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tug",
+  "license": "ISC",
+  "dependencies": {
+    "@elastic/elasticsearch": "^8.9.0",
+    "JSONStream": "^1.3.5"
+  }
+}
